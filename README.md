@@ -1,0 +1,4 @@
+### Data Science problem based on Supply Chain Management
+
+- Two years ago, an FMCG company joined the instant noodle market. Their upper management has noticed a mismatch between demand and supply. Where demand is strong, supply is relatively low, and where demand is low, supply is relatively high. In both cases, the corporation incurs an inventory cost loss; hence, upper management want to maximize supply amount in each and every warehouse across the country.
+Goals and objectives: The goal of this exercise is to create a model utilizing past data that will calculate the optimal weight of the product to be transported to the warehouse each time.
